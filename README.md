@@ -1,7 +1,8 @@
 # Hi, I'm Heba Hesham 👋
 
-UI/UX designer and frontend developer who also builds AI automations.
-I design apps in Figma, build them with React Native, and connect them to AI.
+Full-stack developer building mobile and web apps from the interface to the server, with AI built in.
+AI automation specialist: I build AI workflows and agents that automate real business tasks.
+UI/UX design is where I started, so I design my apps first, then build them end to end.
 
 📫 [LinkedIn](https://linkedin.com/in/heba-hesham-662a51312) · [Design Portfolio](https://claude.ai/artifact/4MHNpoHnHKavu3Lv2Bv99Y) · [Email](mailto:hebaa.hesham04@gmail.com)
 
