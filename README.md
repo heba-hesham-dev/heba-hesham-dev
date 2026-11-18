@@ -14,9 +14,8 @@ UI/UX design is where I started, so I design my apps first, then build them end 
 | --- | --- | --- |
 | **[Calorify](https://github.com/heba-hesham-dev/calorify-app)** · [Live demo](https://calorify-app-rho.vercel.app) | AI nutrition tracking app: scan a meal photo, chat with an AI nutritionist, log meals in English or Arabic | Full-stack |
 | **[Calorify API](https://github.com/heba-hesham-dev/calorify-api)** | The backend for Calorify: Node.js, Express and Google Gemini | Backend |
-| **[Pet Adoption App](https://github.com/heba-hesham-dev/pet-adoption-app)** | A pet adoption mobile app, built from my own Figma design (in progress) | Frontend |
-
-**Tools:** React Native · Expo · TypeScript · JavaScript · Node.js · Express · Git · Vercel
+| **[Pet Adoption App](https://github.com/heba-hesham-dev/pet-adoption-app)** · [Live demo](https://pet-adoption-app-server.vercel.app) | Adopt a pet or offer one for adoption: requests and pet posts saved in MongoDB, photo uploads to the cloud, confirmation emails. Built from my own Figma design | Full-stack |
+**Tools:** React Native · Expo · TypeScript · JavaScript · Node.js · Express · MongoDB · Mongoose · Cloudinary · Git · Vercel
 
 ## 🤖 AI Automation
 
